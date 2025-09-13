@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=negiritesh002&label=Profile%20views&color=0e75b6&style=flat" alt="negiritesh002" /> 
 </p>
 
-- 📫 How to reach me **negiritesh322@gmail.com**
+- 📫 How to reach me : **negiritesh322@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
